@@ -4,7 +4,7 @@
 
 
 # Build Instructions
-`git clone https://github.com/Marware/photon-screenshot`
+`git clone https://github.com/Marware/photon-screenshot.git`
 
 and open photon.pro project file in Qt Creator
 
